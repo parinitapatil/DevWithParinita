@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parinita Patil</h1>
-    <img align="right" src="https://i.pinimg.com/564x/b6/0b/de/b60bde546da8061a607f0f96ff4ed0b1.jpg" alt="think" width="450px">
+<h3 align="center">A passionate 🎊 Frontend Developer 🎊 from India </h3>
+    <img align="right" src="https://i.pinimg.com/564x/b6/0b/de/b60bde546da8061a607f0f96ff4ed0b1.jpg" alt="think" width="350px">
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parinitapatil&label=Profile%20views&color=0e75b6&style=flat" alt="parinitapatil" /> </p>
 
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about **Frontend ,Design**
+- 💬 Ask me about **Development & Design**
 
 - 📫 How to reach me **parinitaopnsrc@gmail.com**
 
-- Blog's Here<p align="left">
+- **Blog's Here**<p align="left">
   <a href="https://hashnode.com/@ParinitaDev" target="blank"> 
     <img src="https://img.shields.io/badge/follow-ParinitaDev-blue?logo=hashnode&style=for-the-badge" alt="ParinitaDev" />
   </a>
