@@ -14,9 +14,8 @@
 
 - 📫 How to reach me **parinitaopnsrc@gmail.com**
 
-- **Blog's Here**<p align="left">
-  <a href="https://hashnode.com/@ParinitaDev" target="blank"> 
-    <img src="https://img.shields.io/badge/follow-ParinitaDev-blue?logo=hashnode&style=for-the-badge" alt="ParinitaDev" />
+- **Blog's Here** <p align="left">⭐
+  <a href="https://hashnode.com/@ParinitaDev" target="blank">Hashnode
   </a>
   
 </p>
