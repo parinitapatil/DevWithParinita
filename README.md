@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Parinita Patil</h1>
-<h3 align="center">A passionate 🎊 Frontend Developer 🎊 from India </h3>
-    <img align="right" src="https://i.pinimg.com/564x/b6/0b/de/b60bde546da8061a607f0f96ff4ed0b1.jpg" alt="think" width="350px">
+<h2 align="left">Hi 👋, I'm Parinita Patil </h2>
 
+<h3 align="left">A passionate 🎊 Frontend Developer 🎊 from India </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parinitapatil&label=Profile%20views&color=0e75b6&style=flat" alt="parinitapatil" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=parinitapatil&label=Profile%20views&color=0e75b6&style=flat" alt="parinitapatil" /> </p>
+ <img align="right" src="https://i.pinimg.com/564x/b6/0b/de/b60bde546da8061a607f0f96ff4ed0b1.jpg" alt="think" width="350px">
+
 
 <p align="left"> <a href="https://twitter.com/ganbaru_hito20" target="blank"><img src="https://img.shields.io/twitter/follow/ganbaru_hito20?logo=twitter&style=for-the-badge" alt="ganbaru_hito20" /></a> </p>
 
