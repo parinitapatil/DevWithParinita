@@ -6,7 +6,7 @@
  <img align="right" src="https://i.pinimg.com/564x/b6/0b/de/b60bde546da8061a607f0f96ff4ed0b1.jpg" alt="think" width="350px">
 
 
-<p align="left"> <a href="https://twitter.com/parinitapatil18" target="blank"><img src="https://img.shields.io/twitter/follow/ganbaru_hito20?logo=twitter&style=for-the-badge" alt="ganbaru_hito20" /></a> </p>
+<p align="left"> <a href="https://twitter.com/parinitapatil18" target="blank"><img src="https://img.shields.io/twitter/follow/parinitapatil18?logo=twitter&style=for-the-badge" alt="parinitapatil18" /></a> </p>
 
 
 - 🌱 I’m currently learning **Backend development**
