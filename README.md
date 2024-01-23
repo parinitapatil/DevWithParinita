@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Parinita Patil </h2>
+<h2 align="cneter">Hi 👋, I'm Parinita Patil </h2>
 
 <h3 align="left">A passionate 🎊 Frontend Developer 🎊 from India </h3>
 
