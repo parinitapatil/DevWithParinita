@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parinita Patil⛄ </h1>
 
 <h3 align="center">A passionate 🎊 Designer & Developer 🎊 from India </h3>
-<h3 align="center">😸Ex-Intern at Medorn as Ui Designer (March-2023)</h3>
+<h3 align="center">😸Ex-Intern @Medorn as Ui Designer (March-2023)</h3>
 
 
  <img align="right" src="https://github.com/parinitapatil/parinitapatil/assets/119065651/c8eb866c-3156-4b92-9b57-513fd722c5c5" alt="think" width="350px">
