@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parinita Patil⛄ </h1>
 
-<h3 align="left">A passionate 🎊 Frontend Developer 🎊 from India </h3>
+<h3 align="left">A passionate 🎊 Designer & Developer 🎊 from India </h3>
 
 
  <img align="right" src="https://github.com/parinitapatil/parinitapatil/assets/119065651/c8eb866c-3156-4b92-9b57-513fd722c5c5" alt="think" width="350px">
