@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parinita Patil⛄ </h1>
 
-<h3 align="left">A passionate 🎊 Designer & Developer 🎊 from India </h3>
+<h3 align="center">A passionate 🎊 Designer & Developer 🎊 from India </h3>
+<h3 align="center">😸Ex-Intern at Medorn as Ui Designer (March-2023)</h3>
 
 
  <img align="right" src="https://github.com/parinitapatil/parinitapatil/assets/119065651/c8eb866c-3156-4b92-9b57-513fd722c5c5" alt="think" width="350px">
@@ -8,9 +9,11 @@
 <p align="left"> <a href="https://twitter.com/parinitapatil18" target="blank"><img src="https://img.shields.io/twitter/follow/parinitapatil18?logo=twitter&style=for-the-badge" alt="parinitapatil18" /></a> </p>
 
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Development & Design**
+ 
+- 😁 P.Language : **Python , Html, CSS,Javascript (Basic), Java (Basic)**
 
 - 📫 How to reach me **parinitaopnsrc@gmail.com**
 
@@ -53,14 +56,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
+  
+  
   </a>
 </p>
 
