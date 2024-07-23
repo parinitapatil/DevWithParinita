@@ -15,20 +15,15 @@
 
 - 💬 Ask me about **Development & Design**
  
-- 😁 P.Language : **Python , Html, CSS,Javascript (Basic), Java (Basic)**
 
 - 📫 How to reach me **parinitaopnsrc@gmail.com**
 
-- **Blog's Here** <p align="left">⭐
-  <a href="https://hashnode.com/@ParinitaDev" target="blank">Hashnode
-  </a>
   
 </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ganbaru_hito20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganbaru_hito20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/parinita-patil-1654b6234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/parinita-patil-1654b6234" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/parinitapatil638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/parinitapatil638" height="30" width="40" /></a>
 </p>
