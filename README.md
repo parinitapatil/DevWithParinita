@@ -11,8 +11,6 @@
 <p align="left"> <a href="https://twitter.com/parinitapatil18" target="blank"><img src="https://img.shields.io/twitter/follow/parinitapatil18?logo=twitter&style=for-the-badge" alt="parinitapatil18" /></a> </p>
 
 
-- 🌱 I’m currently learning **Data Science**
-
 - 💬 Ask me about **Development & Design**
  
 
