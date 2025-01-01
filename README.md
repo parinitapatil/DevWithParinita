@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parinita Patil⛄ </h1>
 
-<h3 align="center">A passionate 🎊 Designer & Developer 🎊 from India </h3>
+<h3 align="center">A passionate  DATA ANALYST 🍁  </h3>
 <h3 align="center">😸Ex-Intern @Medorn as Ui Designer (March-2023)</h3>
 
 
@@ -8,10 +8,11 @@
  
 
 
-<p align="left"> <a href="https://twitter.com/parinitapatil18" target="blank"><img src="https://img.shields.io/twitter/follow/parinitapatil18?logo=twitter&style=for-the-badge" alt="parinitapatil18" /></a> </p>
 
 
-- 💬 Ask me about **Development & Design**
+- 💬 Ask me about **Data Analytics, Development & Design**
+- 👯 I’m looking to collaborate on **Data Analytics Projects and Open Source Contributions**
+
  
 
 - 📫 How to reach me **parinitaopnsrc@gmail.com**
